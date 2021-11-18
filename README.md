@@ -14,6 +14,9 @@
   <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=sebres&show_icons=true&layout=compact&hide=stars&include_all_commits=true" valign="middle"/></td>
   <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebres&langs_count=10&hide=makefile,xs&layout=compact" valign="middle"/></td>
 -->
-  <td width="90pt" valign="top"><img src="https://visitor-badge.laobi.icu/badge?page_id=sebres.sebres" valign="middle"/></br><sup>(since 2021)</sup></td>
+  <td width="208" valign="top"><img src="https://visitor-badge.laobi.icu/badge?page_id=sebres.sebres" valign="middle"/></br><sup>(since 2021)</sup><br/>
+  <a href="https://stackexchange.com/users/9650556/sebres"><img src="https://stackexchange.com/users/flair/9650556.png" width="208" 
+     alt="profile for sebres on Stack Exchange, a network of free, community-driven Q&amp;A sites" 
+     title="profile for sebres on Stack Exchange, a network of free, community-driven Q&amp;A sites"/></a></td>
 </tr></table>
 
